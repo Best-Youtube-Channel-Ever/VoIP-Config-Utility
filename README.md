@@ -8,4 +8,4 @@ All the users of our tool are also invited to contribute to the functionality of
 
 That's all folks!
 
-[Video Tutorial]()
+[Video Tutorial](https://www.youtube.com/watch?v=uGXqp7V8AuE)
